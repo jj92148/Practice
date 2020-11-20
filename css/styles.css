@@ -1,0 +1,113 @@
+body{
+  position: relative;
+  margin: 0;
+  width: 100%;
+  overflow: hidden;
+}
+
+h3{
+  font-family: 'Kumbh Sans', sans-serif;
+  margin: 0;
+}
+
+hr{
+  border-color: #ebebeb;
+  border-top: none;
+  border-width: lighter;
+}
+
+.background-color{
+  position: relative;
+  background-color: #19a2ae;
+  height: 1000px;
+}
+
+.top-circle{
+  position: relative;
+  bottom: 550px;
+  right: 300px;
+  height: 1200px;
+  width: 1200px;
+}
+
+.bottom-circle{
+  position: relative;
+  bottom: 750px;
+  left: 1000px;
+  height: 1200px;
+  width: 1200px;
+}
+
+.card{
+text-align: center;
+background-color: white;
+height: 29rem;
+width: 27rem;
+position: absolute;
+top: 300px;
+left: 750px;
+border-radius: 30px;
+}
+
+.card-background{
+  width: 27rem;
+  border-radius: 30px 30px 0 0;
+}
+
+.victor-image{
+  position: relative;
+  border-radius: 50%;
+  border: solid;
+  border-color: white;
+  bottom: 40px;
+}
+
+.age{
+  color: grey;
+  font-weight: lighter;
+}
+
+.subheading1{
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: lighter;
+  color: grey;
+  margin: 10px auto 25px auto;
+}
+
+.stats{
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 35px;
+  margin-bottom: 0;
+}
+
+.subheading2{
+  font-size: 12px;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: lighter;
+  color: grey;
+  margin-top: 7px;
+  position: relative;
+  right: 9px;
+}
+
+.likes-stat{
+  padding: 0 80px 0 80px;
+}
+
+.followers{
+  position: relative;
+  right: 79px;
+}
+
+.photos{
+  position: relative;
+  left: 91px
+}
+
+.footer{
+  position: absolute;
+  bottom: 80px;
+  left: 800px;
+}
